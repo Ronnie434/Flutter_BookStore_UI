@@ -4,19 +4,6 @@
 
 <img src="attachment.png">
 
-<table>
-  <tr>
-    <td>First Screen Page</td>
-     <td>Dashboard</td>
-     <td>Book Details Page</td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/First_page.png" wieght="1000" height="500"></td>
-    <td><img src="Screenshots/Dashboard.png" wieght="1000" height="500"></td>
-    <td><img src="Screenshots/Detail_page.png" wieght="1000" height="500"></td>
- </table>
-
-
 # For First Timer
 
 A new Flutter project.
