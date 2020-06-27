@@ -9,9 +9,9 @@
      <td>Book Details Page</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/First_page.png" wieght="600" height="500"></td>
-    <td><img src="Screenshots/Dashboard.png" wieght="600" height="500"></td>
-    <td><img src="Screenshots/Detail_page.png" wieght="600" height="500"></td>
+    <td><img src="Screenshots/First_page.png" wieght="900" height="500"></td>
+    <td><img src="Screenshots/Dashboard.png" wieght="900" height="500"></td>
+    <td><img src="Screenshots/Detail_page.png" wieght="900" height="500"></td>
  </table>
 
 
