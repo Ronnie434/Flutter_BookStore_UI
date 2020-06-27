@@ -1,4 +1,4 @@
-# first_app
+# For First Timer
 
 A new Flutter project.
 
